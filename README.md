@@ -2,9 +2,9 @@
 *Simple HTML+CSS Professional Website (Portfolio) using Bootstrap 4*
 
 This is a single page, mobile first, responsive website, designed with:
-*HTML
-*CSS
-*Bootstrap 4
+* HTML
+* CSS
+* Bootstrap 4
 
 You can use this website as you Professional Website, so you can show clients and/or recruiters information about your Career.
 
